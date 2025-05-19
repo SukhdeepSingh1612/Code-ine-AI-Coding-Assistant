@@ -43,7 +43,7 @@ GROQ_API_KEY=your_api_key_here
 
 4. Run the app:
 ```bash
-streamlit run app.py
+streamlit run betterStreamlitApp.py
 ```
 
 ## ✨ Sample Prompt
