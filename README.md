@@ -1,5 +1,7 @@
 # 🧠 Code-ine: Your AI Coding Assistant
 
+### Deployed on Streamlit : https://code-ine-ai-coding-assistant-vwbdfw9x9cfjrzvs8zhmpi.streamlit.app/
+
 Code-ine is a powerful AI-powered coding assistant built using Streamlit and the Groq API (powered by LLaMA3). It allows users to ask coding-related questions, get real-time answers with clean code snippets, and view chat history in a sleek, modern UI.
 
 ## 🚀 Features
